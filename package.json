@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-nest-cache",
+  "version": "1.0.0",
+  "description": "NestJS CacheModule custom store using kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.1"
+  },
+  "license": "MIT"
+}
